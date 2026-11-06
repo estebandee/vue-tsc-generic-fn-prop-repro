@@ -70,7 +70,7 @@ Removing the prop, or wrapping the function in a non-generic arrow (`(option: Op
 
 ### Link to minimal reproduction
 
-<REPO_URL>
+https://github.com/estebandee/vue-tsc-generic-fn-prop-repro
 
 ### Any additional comments?
 
