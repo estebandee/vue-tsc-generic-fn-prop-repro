@@ -1,0 +1,13 @@
+{
+  "name": "vue-tsc-generic-fn-prop-repro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "typecheck": "vue-tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "6.0.3",
+    "vue": "3.5.42",
+    "vue-tsc": "3.3.12"
+  }
+}
